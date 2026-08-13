@@ -1,0 +1,972 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "Official GitHub repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T12:18:58Z",
+            "owner": "puppeteer",
+            "repo": "puppeteer",
+            "stars": 95458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "API",
+          "description": "Official API docs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T12:18:58Z",
+            "owner": "puppeteer",
+            "repo": "puppeteer",
+            "stars": 95458
+          }
+        }
+      ],
+      "title": "Official"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "puppeteer-recorder",
+          "description": "Chrome extension that records your browser interactions and generates a Puppeteer script. 🔥",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-12-16T13:35:36Z",
+            "owner": "checkly",
+            "repo": "headless-recorder",
+            "stars": 15294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-extra",
+          "description": "Wrapper to use stealth mode, custom user prefs, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-18T12:28:02Z",
+            "owner": "berstend",
+            "repo": "puppeteer-extra",
+            "stars": 7396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-cluster",
+          "description": "Cluster management for puppeteer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-01T08:41:33Z",
+            "owner": "thomasdondorf",
+            "repo": "puppeteer-cluster",
+            "stars": 3515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chrome-aws-lambda",
+          "description": "Chromium binary compatible with AWS Lambda (kept up to date with puppeteer).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-03T21:05:59Z",
+            "owner": "alixaxel",
+            "repo": "chrome-aws-lambda",
+            "stars": 3287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pwa-asset-generator",
+          "description": "CLI to generate multi-platform PWA icons, splash screens and meta code based on web standards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-01T09:35:56Z",
+            "owner": "elegantapp",
+            "repo": "pwa-asset-generator",
+            "stars": 3030
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capture-website",
+          "description": "Capture screenshots of websites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-31T13:00:53Z",
+            "owner": "sindresorhus",
+            "repo": "capture-website",
+            "stars": 2013
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@cliqz/adblocker-puppeteer",
+          "description": "Efficient and flexible adblocker library to easily block ads and trackers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:01:26Z",
+            "owner": "ghostery",
+            "repo": "adblocker",
+            "stars": 990
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capture-website-cli",
+          "description": "CLI to capture screenshots of websites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-01T06:51:29Z",
+            "owner": "sindresorhus",
+            "repo": "capture-website-cli",
+            "stars": 854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timecut",
+          "description": "Record smooth movies of web pages with JavaScript animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-18T21:24:14Z",
+            "owner": "tungs",
+            "repo": "timecut",
+            "stars": 651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "differencify",
+          "description": "Library for visual regression testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-02T12:59:51Z",
+            "owner": "NimaSoroush",
+            "repo": "differencify",
+            "stars": 638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "headless-devtools",
+          "description": "Puppeteer plugin to get CSS Coverage or JS Heap snapshot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-05T17:33:25Z",
+            "owner": "cowchimp",
+            "repo": "headless-devtools",
+            "stars": 554
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docker-puppeteer",
+          "description": "Docker image with puppeteer installed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-20T06:08:42Z",
+            "owner": "alekzonder",
+            "repo": "docker-puppeteer",
+            "stars": 480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-lottie",
+          "description": "Renders Lottie animations via Puppeteer to image, GIF or MP4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-25T14:36:07Z",
+            "owner": "transitive-bullshit",
+            "repo": "puppeteer-lottie",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "minimalcss",
+          "description": "Extracts the minimal / critical CSS used in a set of URLs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T16:48:53Z",
+            "owner": "peterbe",
+            "repo": "minimalcss",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timesnap",
+          "description": "Take screenshots of web pages at smooth intervals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-17T10:30:54Z",
+            "owner": "tungs",
+            "repo": "timesnap",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-social-image",
+          "description": "Render social share images using HTML + CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T21:45:50Z",
+            "owner": "chrisvxd",
+            "repo": "puppeteer-social-image",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-email",
+          "description": "Email automation driven by headless chrome.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-01-05T05:23:46Z",
+            "owner": "transitive-bullshit",
+            "repo": "puppeteer-email",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-email-cli",
+          "description": "CLI for email automation driven by headless chrome.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-01-05T05:23:46Z",
+            "owner": "transitive-bullshit",
+            "repo": "puppeteer-email",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-lottie-cli",
+          "description": "CLI for this puppeteer-lottie.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-04T17:49:17Z",
+            "owner": "transitive-bullshit",
+            "repo": "puppeteer-lottie-cli",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-explore",
+          "description": "Utility library for puppeteer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-10-19T05:30:08Z",
+            "owner": "laispace",
+            "repo": "puppeteer-explore",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-instagram",
+          "description": "Instagram automation driven by headless chrome.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T03:40:36Z",
+            "owner": "transitive-bullshit",
+            "repo": "puppeteer-instagram",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppet-canvas",
+          "description": "HTML5 Canvas implementation for Node.JS backed by Puppeteer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-05-07T20:28:29Z",
+            "owner": "pshihn",
+            "repo": "puppet-canvas",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-render-text",
+          "description": "Robust text renderer using headless chrome.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-16T19:09:11Z",
+            "owner": "transitive-bullshit",
+            "repo": "puppeteer-render-text",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "facebook-birthday-cli",
+          "description": "Command Line Interface to list and wish your facebook friends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-09-01T09:14:29Z",
+            "owner": "igniteram",
+            "repo": "facebook-birthday-cli",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-github",
+          "description": "GitHub automation driven by headless chrome.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-11T23:11:03Z",
+            "owner": "transitive-bullshit",
+            "repo": "puppeteer-github",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-instagram-cli",
+          "description": "CLI for Instagram automation driven by headless chrome.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-11T23:13:35Z",
+            "owner": "transitive-bullshit",
+            "repo": "puppeteer-instagram-cli",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-github-cli",
+          "description": "CLI for GitHub automation driven by headless chrome.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-11T23:12:10Z",
+            "owner": "transitive-bullshit",
+            "repo": "puppeteer-github-cli",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Packages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apify SDK",
+          "description": "Scalable web crawling and scraping library. 🕷️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T09:45:16Z",
+            "owner": "apify",
+            "repo": "crawlee",
+            "stars": 25370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "headless-chrome-crawler",
+          "description": "Distributed crawler powered by Headless Chrome.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-29T20:48:51Z",
+            "owner": "yujiosaka",
+            "repo": "headless-chrome-crawler",
+            "stars": 5642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrowserGap",
+          "description": "Remote browser webview powered by Headless Chrome.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T03:22:17Z",
+            "owner": "BrowserBox",
+            "repo": "BrowserBox",
+            "stars": 3892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "decktape",
+          "description": "PDF exporter for HTML presentation frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-13T18:33:20Z",
+            "owner": "astefanutti",
+            "repo": "decktape",
+            "stars": 2422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wbot",
+          "description": "Configurable Whatsapp auto reply bot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-23T13:20:28Z",
+            "owner": "vasani-arpit",
+            "repo": "WBOT",
+            "stars": 1013
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Puppetron",
+          "description": "Demo site that shows how to use Puppeteer and Headless Chrome to render pages. Inspired by GoogleChrome/rendertron.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-17T01:45:48Z",
+            "owner": "cheeaun",
+            "repo": "puppetron",
+            "stars": 553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whatspup",
+          "description": "WhatsApp chat from commandline/console/cli.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-11-16T12:33:47Z",
+            "owner": "sarfraznawaz2005",
+            "repo": "whatspup",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-renderer",
+          "description": "Generic web page renderer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-19T02:41:21Z",
+            "owner": "zenato",
+            "repo": "puppeteer-renderer",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prerenderer",
+          "description": "Framework-agnostic prerendering for sites and SPAs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-26T18:47:41Z",
+            "owner": "Tofandel",
+            "repo": "prerenderer",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pupperender",
+          "description": "Express middleware that renders PWAs for bots using puppeteer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-25T23:15:26Z",
+            "owner": "LasaleFamine",
+            "repo": "pupperender",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webgif",
+          "description": "Easily generate animated GIFs from websites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-28T00:15:38Z",
+            "owner": "anishkny",
+            "repo": "webgif",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReedD/crawler",
+          "description": "BFS site crawler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-03-30T02:58:20Z",
+            "owner": "ReedD",
+            "repo": "crawler",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "Rendering and web scraping"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jest-puppeteer",
+          "description": "Run your tests using Jest & Puppeteer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-26T23:40:00Z",
+            "owner": "argos-ci",
+            "repo": "jest-puppeteer",
+            "stars": 3546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "expect-puppeteer",
+          "description": "Assertion library for Puppeteer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-26T23:40:00Z",
+            "owner": "argos-ci",
+            "repo": "jest-puppeteer",
+            "stars": 3546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "storybook-chrome-screenshot",
+          "description": "Storybook addon to save screenshots of your stories via puppeteer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T22:02:42Z",
+            "owner": "reg-viz",
+            "repo": "storycap",
+            "stars": 755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mochify",
+          "description": "TDD with Browserify, Mocha, Headless Chrome and WebDriver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-24T16:13:33Z",
+            "owner": "mantoni",
+            "repo": "mochify.js",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rize",
+          "description": "High-level, fluent and chainable API provided library for puppeteer.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-05-22T03:13:14Z",
+            "owner": "g-plane",
+            "repo": "rize",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wendigo",
+          "description": "Puppeteer wrapper to ease test development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-08T12:06:25Z",
+            "owner": "angrykoala",
+            "repo": "wendigo",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mocha-headless-chrome",
+          "description": "Run client-side mocha tests in the command line through Puppeteer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-31T21:57:17Z",
+            "owner": "direct-adv-interfaces",
+            "repo": "mocha-headless-chrome",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular-puppeteer-demo",
+          "description": "Demos how to use Puppeteer in Karma.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-04-12T10:55:13Z",
+            "owner": "Quramy",
+            "repo": "angular-puppeteer-demo",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "e2e",
+          "description": "End-to-end testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-01-02T23:16:08Z",
+            "owner": "dollarshaveclub",
+            "repo": "e2e",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tupe",
+          "description": "A generic unit-testing runner for front-end.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-18T06:07:41Z",
+            "owner": "jl-",
+            "repo": "tupe",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "browserless",
+          "description": "Headless Chrome as a service letting you execute Puppeteer scripts remotely.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T05:44:14Z",
+            "owner": "browserless",
+            "repo": "browserless",
+            "stars": 13585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "url-to-pdf-api",
+          "description": "Web page PDF rendering done right. Self-hosted service for rendering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-01-18T12:49:11Z",
+            "owner": "alvarcarto",
+            "repo": "url-to-pdf-api",
+            "stars": 7105
+          }
+        }
+      ],
+      "title": "Services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Official examples",
+          "description": "Quality examples as part of the official puppeteer repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T12:18:58Z",
+            "owner": "puppeteer",
+            "repo": "puppeteer",
+            "stars": 95458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-examples",
+          "description": "Quality examples for real life use cases such as scraping web pages and common login scenarios.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-10-01T07:27:17Z",
+            "owner": "checkly",
+            "repo": "puppeteer-examples",
+            "stars": 3041
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Official use case-driven examples",
+          "description": "More complex, high quality, use case-driven examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-21T00:47:42Z",
+            "owner": "puppeteer",
+            "repo": "examples",
+            "stars": 2415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-deep",
+          "description": "Demos on crawling, UI automation, trace API and so on.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-11-13T05:50:57Z",
+            "owner": "zhentaoo",
+            "repo": "puppeteer-deep",
+            "stars": 1210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "html_to_pdf",
+          "description": "Generate a simple invoice PDF from HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-29T09:50:04Z",
+            "owner": "chuongtrh",
+            "repo": "html_to_pdf",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "instagram-get-images",
+          "description": "Instagram image scraper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-29T23:54:54Z",
+            "owner": "aofdev",
+            "repo": "instagram-get-images",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-samples",
+          "description": "Misc examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-18T04:01:51Z",
+            "owner": "sweekson",
+            "repo": "puppeteer-samples",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "daily-signin",
+          "description": "Signin and control various chinese sites.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "linkedin-autoaccept",
+          "description": "Auto-accept invitations on linkedin.",
+          "children": []
+        }
+      ],
+      "title": "Examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pyppeteer",
+          "description": "Unofficial Python port of Puppeteer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-29T14:49:45Z",
+            "owner": "pyppeteer",
+            "repo": "pyppeteer",
+            "stars": 3940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puppeteer-sharp",
+          "description": "Port of Puppeteer to .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T19:42:39Z",
+            "owner": "hardkoded",
+            "repo": "puppeteer-sharp",
+            "stars": 3913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "foxr",
+          "description": "Node.js API to control Firefox. 🦊",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-01-04T21:41:11Z",
+            "owner": "deepsweet",
+            "repo": "foxr",
+            "stars": 798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capybara-chrome",
+          "description": "Unofficial Ruby port of Puppeteer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2021-06-04T16:41:43Z",
+            "owner": "sandro",
+            "repo": "capybara-chrome",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Related"
+    },
+    {
+      "description": "Contributions welcome! Please read the contributing guideline first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, Travis Fischer has waived all copyright and related or neighboring rights to this work.\nSupport my OSS work by following me on twitter",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:35:36.248Z",
+    "original_repository": "transitive-bullshit/awesome-puppeteer",
+    "original_repository_sha": "19ca8ec0b3b1cb49efda46fca9e471c052cb14a9",
+    "enhanced_repository": "enhansome/enhansome-puppeteer",
+    "enhanced_repository_description": null,
+    "title": "Awesome Puppeteer with stars"
+  }
+}
