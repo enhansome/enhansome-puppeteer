@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T12:55:59Z",
+            "last_commit": "2026-08-16T03:04:57Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95460
+            "stars": 95461
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T12:55:59Z",
+            "last_commit": "2026-08-16T03:04:57Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95460
+            "stars": 95461
           }
         }
       ],
@@ -62,7 +62,7 @@
             "last_commit": "2024-07-18T12:28:02Z",
             "owner": "berstend",
             "repo": "puppeteer-extra",
-            "stars": 7396
+            "stars": 7395
           }
         },
         {
@@ -129,7 +129,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T20:47:53Z",
+            "last_commit": "2026-08-15T20:50:00Z",
             "owner": "ghostery",
             "repo": "adblocker",
             "stars": 991
@@ -432,7 +432,7 @@
             "last_commit": "2026-08-15T00:59:14Z",
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25394
+            "stars": 25405
           }
         },
         {
@@ -752,7 +752,7 @@
             "last_commit": "2026-08-14T05:44:07Z",
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13588
+            "stars": 13595
           }
         },
         {
@@ -783,10 +783,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T12:55:59Z",
+            "last_commit": "2026-08-16T03:04:57Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95460
+            "stars": 95461
           }
         },
         {
@@ -916,7 +916,7 @@
             "last_commit": "2026-08-14T21:47:25Z",
             "owner": "hardkoded",
             "repo": "puppeteer-sharp",
-            "stars": 3913
+            "stars": 3912
           }
         },
         {
@@ -962,7 +962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:59:19.492Z",
+    "last_updated": "2026-08-16T12:00:02.978Z",
     "original_repository": "transitive-bullshit/awesome-puppeteer",
     "original_repository_sha": "19ca8ec0b3b1cb49efda46fca9e471c052cb14a9",
     "enhanced_repository": "enhansome/enhansome-puppeteer",
