@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T03:04:57Z",
+            "last_commit": "2026-08-17T11:31:49Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95461
+            "stars": 95463
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T03:04:57Z",
+            "last_commit": "2026-08-17T11:31:49Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95461
+            "stars": 95463
           }
         }
       ],
@@ -48,7 +48,7 @@
             "last_commit": "2022-12-16T13:35:36Z",
             "owner": "checkly",
             "repo": "headless-recorder",
-            "stars": 15294
+            "stars": 15296
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-06-01T09:35:56Z",
             "owner": "elegantapp",
             "repo": "pwa-asset-generator",
-            "stars": 3029
+            "stars": 3030
           }
         },
         {
@@ -129,10 +129,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T20:50:00Z",
+            "last_commit": "2026-08-17T04:05:17Z",
             "owner": "ghostery",
             "repo": "adblocker",
-            "stars": 991
+            "stars": 992
           }
         },
         {
@@ -429,10 +429,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T00:59:14Z",
+            "last_commit": "2026-08-17T11:59:32Z",
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25405
+            "stars": 25410
           }
         },
         {
@@ -446,7 +446,7 @@
             "last_commit": "2023-04-29T20:48:51Z",
             "owner": "yujiosaka",
             "repo": "headless-chrome-crawler",
-            "stars": 5642
+            "stars": 5636
           }
         },
         {
@@ -460,7 +460,7 @@
             "last_commit": "2026-08-13T14:55:33Z",
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3895
+            "stars": 3896
           }
         },
         {
@@ -749,10 +749,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T05:44:07Z",
+            "last_commit": "2026-08-17T05:32:53Z",
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13595
+            "stars": 13598
           }
         },
         {
@@ -783,10 +783,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T03:04:57Z",
+            "last_commit": "2026-08-17T11:31:49Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95461
+            "stars": 95463
           }
         },
         {
@@ -962,7 +962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T12:00:02.978Z",
+    "last_updated": "2026-08-17T12:02:15.801Z",
     "original_repository": "transitive-bullshit/awesome-puppeteer",
     "original_repository_sha": "19ca8ec0b3b1cb49efda46fca9e471c052cb14a9",
     "enhanced_repository": "enhansome/enhansome-puppeteer",
