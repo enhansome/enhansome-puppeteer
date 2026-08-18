@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T11:31:49Z",
+            "last_commit": "2026-08-18T09:04:58Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95463
+            "stars": 95461
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T11:31:49Z",
+            "last_commit": "2026-08-18T09:04:58Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95463
+            "stars": 95461
           }
         }
       ],
@@ -104,7 +104,7 @@
             "last_commit": "2026-06-01T09:35:56Z",
             "owner": "elegantapp",
             "repo": "pwa-asset-generator",
-            "stars": 3030
+            "stars": 3029
           }
         },
         {
@@ -129,7 +129,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T04:05:17Z",
+            "last_commit": "2026-08-18T04:05:36Z",
             "owner": "ghostery",
             "repo": "adblocker",
             "stars": 992
@@ -216,7 +216,7 @@
             "last_commit": "2023-07-25T14:36:07Z",
             "owner": "transitive-bullshit",
             "repo": "puppeteer-lottie",
-            "stars": 383
+            "stars": 384
           }
         },
         {
@@ -429,10 +429,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T11:59:32Z",
+            "last_commit": "2026-08-18T11:38:25Z",
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25410
+            "stars": 25420
           }
         },
         {
@@ -460,7 +460,7 @@
             "last_commit": "2026-08-13T14:55:33Z",
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3896
+            "stars": 3898
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2026-07-13T18:33:20Z",
             "owner": "astefanutti",
             "repo": "decktape",
-            "stars": 2422
+            "stars": 2421
           }
         },
         {
@@ -749,10 +749,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T05:32:53Z",
+            "last_commit": "2026-08-18T05:48:16Z",
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13598
+            "stars": 13602
           }
         },
         {
@@ -783,10 +783,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T11:31:49Z",
+            "last_commit": "2026-08-18T09:04:58Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95463
+            "stars": 95461
           }
         },
         {
@@ -913,7 +913,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T21:47:25Z",
+            "last_commit": "2026-08-17T20:54:08Z",
             "owner": "hardkoded",
             "repo": "puppeteer-sharp",
             "stars": 3912
@@ -962,7 +962,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T12:02:15.801Z",
+    "last_updated": "2026-08-18T12:14:17.367Z",
     "original_repository": "transitive-bullshit/awesome-puppeteer",
     "original_repository_sha": "19ca8ec0b3b1cb49efda46fca9e471c052cb14a9",
     "enhanced_repository": "enhansome/enhansome-puppeteer",
