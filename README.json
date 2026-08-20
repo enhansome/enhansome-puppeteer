@@ -12,10 +12,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T06:09:48Z",
+            "last_commit": "2026-08-20T10:01:20Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95467
+            "stars": 95472
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T06:09:48Z",
+            "last_commit": "2026-08-20T10:01:20Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95467
+            "stars": 95472
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2022-12-16T13:35:36Z",
             "owner": "checkly",
             "repo": "headless-recorder",
-            "stars": 15296
+            "stars": 15297
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 114102066,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T20:53:54Z",
+            "last_commit": "2026-08-19T20:55:55Z",
             "owner": "ghostery",
             "repo": "adblocker",
             "stars": 992
@@ -459,10 +459,10 @@
             "archived": false,
             "id": 66670819,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:35:22Z",
+            "last_commit": "2026-08-20T11:39:03Z",
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25432
+            "stars": 25446
           }
         },
         {
@@ -489,7 +489,7 @@
             "archived": false,
             "id": 222240688,
             "language": "Shell",
-            "last_commit": "2026-08-13T14:55:33Z",
+            "last_commit": "2026-08-19T17:18:58Z",
             "owner": "BrowserBox",
             "repo": "BrowserBox",
             "stars": 3898
@@ -648,7 +648,7 @@
             "last_commit": "2026-03-26T23:40:00Z",
             "owner": "argos-ci",
             "repo": "jest-puppeteer",
-            "stars": 3546
+            "stars": 3545
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2026-03-26T23:40:00Z",
             "owner": "argos-ci",
             "repo": "jest-puppeteer",
-            "stars": 3546
+            "stars": 3545
           }
         },
         {
@@ -804,7 +804,7 @@
             "last_commit": "2026-08-18T05:48:16Z",
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13606
+            "stars": 13614
           }
         },
         {
@@ -819,7 +819,7 @@
             "last_commit": "2024-01-18T12:49:11Z",
             "owner": "alvarcarto",
             "repo": "url-to-pdf-api",
-            "stars": 7103
+            "stars": 7104
           }
         }
       ],
@@ -837,10 +837,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T06:09:48Z",
+            "last_commit": "2026-08-20T10:01:20Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95467
+            "stars": 95472
           }
         },
         {
@@ -1004,7 +1004,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:47:11.752Z",
+    "last_updated": "2026-08-20T12:15:37.115Z",
     "original_repository": "transitive-bullshit/awesome-puppeteer",
     "original_repository_id": 132446647,
     "original_repository_sha": "19ca8ec0b3b1cb49efda46fca9e471c052cb14a9",
