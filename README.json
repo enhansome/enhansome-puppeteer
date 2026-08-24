@@ -12,10 +12,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:02:48Z",
+            "last_commit": "2026-08-24T13:05:07Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95490
+            "stars": 95492
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:02:48Z",
+            "last_commit": "2026-08-24T13:05:07Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95490
+            "stars": 95492
           }
         }
       ],
@@ -459,10 +459,10 @@
             "archived": false,
             "id": 66670819,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:08:49Z",
+            "last_commit": "2026-08-24T12:23:18Z",
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25483
+            "stars": 25484
           }
         },
         {
@@ -804,7 +804,7 @@
             "last_commit": "2026-08-21T05:44:32Z",
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13627
+            "stars": 13626
           }
         },
         {
@@ -837,10 +837,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:02:48Z",
+            "last_commit": "2026-08-24T13:05:07Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95490
+            "stars": 95492
           }
         },
         {
@@ -1004,7 +1004,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:15:59.878Z",
+    "last_updated": "2026-08-24T14:02:23.049Z",
     "original_repository": "transitive-bullshit/awesome-puppeteer",
     "original_repository_id": 132446647,
     "original_repository_sha": "19ca8ec0b3b1cb49efda46fca9e471c052cb14a9",
