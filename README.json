@@ -5,17 +5,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "puppeteer/puppeteer",
           "description": "Official GitHub repository.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:05:07Z",
+            "last_commit": "2026-08-24T17:06:57Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95492
+            "stars": 95495
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:05:07Z",
+            "last_commit": "2026-08-24T17:06:57Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95492
+            "stars": 95495
           }
         }
       ],
@@ -66,7 +66,7 @@
             "last_commit": "2024-07-18T12:28:02Z",
             "owner": "berstend",
             "repo": "puppeteer-extra",
-            "stars": 7395
+            "stars": 7397
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 114102066,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T04:22:45Z",
+            "last_commit": "2026-08-25T04:06:29Z",
             "owner": "ghostery",
             "repo": "adblocker",
             "stars": 993
@@ -231,7 +231,7 @@
             "last_commit": "2023-07-25T14:36:07Z",
             "owner": "transitive-bullshit",
             "repo": "puppeteer-lottie",
-            "stars": 384
+            "stars": 385
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2026-08-24T12:23:18Z",
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25484
+            "stars": 25486
           }
         },
         {
@@ -492,7 +492,7 @@
             "last_commit": "2026-08-19T17:18:58Z",
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3899
+            "stars": 3900
           }
         },
         {
@@ -801,10 +801,10 @@
             "archived": false,
             "id": 111058386,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T05:44:32Z",
+            "last_commit": "2026-08-25T05:44:08Z",
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13626
+            "stars": 13630
           }
         },
         {
@@ -819,7 +819,7 @@
             "last_commit": "2024-01-18T12:49:11Z",
             "owner": "alvarcarto",
             "repo": "url-to-pdf-api",
-            "stars": 7104
+            "stars": 7105
           }
         }
       ],
@@ -837,10 +837,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:05:07Z",
+            "last_commit": "2026-08-24T17:06:57Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95492
+            "stars": 95495
           }
         },
         {
@@ -966,7 +966,7 @@
             "last_commit": "2026-08-17T20:54:08Z",
             "owner": "hardkoded",
             "repo": "puppeteer-sharp",
-            "stars": 3913
+            "stars": 3915
           }
         },
         {
@@ -1004,7 +1004,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:02:23.049Z",
+    "last_updated": "2026-08-25T05:55:42.914Z",
     "original_repository": "transitive-bullshit/awesome-puppeteer",
     "original_repository_id": 132446647,
     "original_repository_sha": "19ca8ec0b3b1cb49efda46fca9e471c052cb14a9",
