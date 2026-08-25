@@ -12,10 +12,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T17:06:57Z",
+            "last_commit": "2026-08-25T11:27:17Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95495
+            "stars": 95497
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T17:06:57Z",
+            "last_commit": "2026-08-25T11:27:17Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95495
+            "stars": 95497
           }
         }
       ],
@@ -336,7 +336,7 @@
             "last_commit": "2017-10-19T05:30:08Z",
             "owner": "laispace",
             "repo": "puppeteer-explore",
-            "stars": 146
+            "stars": 144
           }
         },
         {
@@ -459,10 +459,10 @@
             "archived": false,
             "id": 66670819,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:23:18Z",
+            "last_commit": "2026-08-25T07:07:17Z",
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25486
+            "stars": 25490
           }
         },
         {
@@ -804,7 +804,7 @@
             "last_commit": "2026-08-25T05:44:08Z",
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13630
+            "stars": 13635
           }
         },
         {
@@ -837,10 +837,10 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T17:06:57Z",
+            "last_commit": "2026-08-25T11:27:17Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95495
+            "stars": 95497
           }
         },
         {
@@ -885,7 +885,7 @@
             "last_commit": "2020-11-13T05:50:57Z",
             "owner": "zhentaoo",
             "repo": "puppeteer-deep",
-            "stars": 1210
+            "stars": 1209
           }
         },
         {
@@ -963,7 +963,7 @@
             "archived": false,
             "id": 105399035,
             "language": "C#",
-            "last_commit": "2026-08-17T20:54:08Z",
+            "last_commit": "2026-08-25T10:41:18Z",
             "owner": "hardkoded",
             "repo": "puppeteer-sharp",
             "stars": 3915
@@ -1004,7 +1004,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:55:42.914Z",
+    "last_updated": "2026-08-25T12:16:26.886Z",
     "original_repository": "transitive-bullshit/awesome-puppeteer",
     "original_repository_id": 132446647,
     "original_repository_sha": "19ca8ec0b3b1cb49efda46fca9e471c052cb14a9",
