@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T19:21:43Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95506
+            "stars": 95512
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-26T19:21:43Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95506
+            "stars": 95512
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2022-12-16T13:35:36Z",
             "owner": "checkly",
             "repo": "headless-recorder",
-            "stars": 15301
+            "stars": 15302
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2024-07-18T12:28:02Z",
             "owner": "berstend",
             "repo": "puppeteer-extra",
-            "stars": 7398
+            "stars": 7397
           }
         },
         {
@@ -459,10 +459,10 @@
             "archived": false,
             "id": 66670819,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:41:56Z",
+            "last_commit": "2026-08-27T19:05:27Z",
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25520
+            "stars": 25525
           }
         },
         {
@@ -804,7 +804,7 @@
             "last_commit": "2026-08-25T05:44:08Z",
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13635
+            "stars": 13638
           }
         },
         {
@@ -840,7 +840,7 @@
             "last_commit": "2026-08-26T19:21:43Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95506
+            "stars": 95512
           }
         },
         {
@@ -963,7 +963,7 @@
             "archived": false,
             "id": 105399035,
             "language": "C#",
-            "last_commit": "2026-08-26T11:38:59Z",
+            "last_commit": "2026-08-27T20:52:08Z",
             "owner": "hardkoded",
             "repo": "puppeteer-sharp",
             "stars": 3916
@@ -1004,7 +1004,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:01:43.907Z",
+    "last_updated": "2026-08-27T21:19:24.746Z",
     "original_repository_info": {
       "archived": false,
       "id": 132446647,
