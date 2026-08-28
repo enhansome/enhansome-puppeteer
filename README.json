@@ -12,11 +12,12 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T19:21:43Z",
+            "last_commit": "2026-08-28T05:38:40Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95512
-          }
+            "stars": 95515
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T19:21:43Z",
+            "last_commit": "2026-08-28T05:38:40Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95512
-          }
+            "stars": 95515
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         }
       ],
       "title": "Official"
@@ -52,7 +54,8 @@
             "owner": "checkly",
             "repo": "headless-recorder",
             "stars": 15302
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -66,8 +69,9 @@
             "last_commit": "2024-07-18T12:28:02Z",
             "owner": "berstend",
             "repo": "puppeteer-extra",
-            "stars": 7397
-          }
+            "stars": 7396
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "thomasdondorf",
             "repo": "puppeteer-cluster",
             "stars": 3514
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "alixaxel",
             "repo": "chrome-aws-lambda",
             "stars": 3285
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "elegantapp",
             "repo": "pwa-asset-generator",
             "stars": 3030
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "sindresorhus",
             "repo": "capture-website",
             "stars": 2013
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -138,11 +146,12 @@
             "archived": false,
             "id": 114102066,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T21:31:32Z",
+            "last_commit": "2026-08-28T04:06:50Z",
             "owner": "ghostery",
             "repo": "adblocker",
             "stars": 995
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "sindresorhus",
             "repo": "capture-website-cli",
             "stars": 854
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "tungs",
             "repo": "timecut",
             "stars": 651
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "NimaSoroush",
             "repo": "differencify",
             "stars": 638
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "cowchimp",
             "repo": "headless-devtools",
             "stars": 554
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "alekzonder",
             "repo": "docker-puppeteer",
             "stars": 480
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "transitive-bullshit",
             "repo": "puppeteer-lottie",
             "stars": 385
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "peterbe",
             "repo": "minimalcss",
             "stars": 356
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "tungs",
             "repo": "timesnap",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "chrisvxd",
             "repo": "puppeteer-social-image",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "transitive-bullshit",
             "repo": "puppeteer-email",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "transitive-bullshit",
             "repo": "puppeteer-email",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "transitive-bullshit",
             "repo": "puppeteer-lottie-cli",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "laispace",
             "repo": "puppeteer-explore",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -351,8 +373,9 @@
             "last_commit": "2022-12-07T03:40:36Z",
             "owner": "transitive-bullshit",
             "repo": "puppeteer-instagram",
-            "stars": 117
-          }
+            "stars": 118
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "pshihn",
             "repo": "puppet-canvas",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "transitive-bullshit",
             "repo": "puppeteer-render-text",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "igniteram",
             "repo": "facebook-birthday-cli",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "transitive-bullshit",
             "repo": "puppeteer-github",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "transitive-bullshit",
             "repo": "puppeteer-instagram-cli",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "transitive-bullshit",
             "repo": "puppeteer-github-cli",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         }
       ],
       "title": "Packages"
@@ -459,11 +488,12 @@
             "archived": false,
             "id": 66670819,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:05:27Z",
+            "last_commit": "2026-08-28T14:14:25Z",
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25525
-          }
+            "stars": 25541
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -477,8 +507,9 @@
             "last_commit": "2023-04-29T20:48:51Z",
             "owner": "yujiosaka",
             "repo": "headless-chrome-crawler",
-            "stars": 5635
-          }
+            "stars": 5636
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -492,8 +523,9 @@
             "last_commit": "2026-08-26T10:06:46Z",
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3901
-          }
+            "stars": 3902
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -508,7 +540,8 @@
             "owner": "astefanutti",
             "repo": "decktape",
             "stars": 2422
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -523,7 +556,8 @@
             "owner": "vasani-arpit",
             "repo": "WBOT",
             "stars": 1013
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -538,7 +572,8 @@
             "owner": "cheeaun",
             "repo": "puppetron",
             "stars": 554
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -553,7 +588,8 @@
             "owner": "sarfraznawaz2005",
             "repo": "whatspup",
             "stars": 360
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -568,7 +604,8 @@
             "owner": "zenato",
             "repo": "puppeteer-renderer",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -582,8 +619,9 @@
             "last_commit": "2024-09-26T18:47:41Z",
             "owner": "Tofandel",
             "repo": "prerenderer",
-            "stars": 229
-          }
+            "stars": 230
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -598,7 +636,8 @@
             "owner": "LasaleFamine",
             "repo": "pupperender",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -613,7 +652,8 @@
             "owner": "anishkny",
             "repo": "webgif",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -628,7 +668,8 @@
             "owner": "ReedD",
             "repo": "crawler",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         }
       ],
       "title": "Rendering and web scraping"
@@ -649,7 +690,8 @@
             "owner": "argos-ci",
             "repo": "jest-puppeteer",
             "stars": 3544
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "argos-ci",
             "repo": "jest-puppeteer",
             "stars": 3544
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "reg-viz",
             "repo": "storycap",
             "stars": 755
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -694,7 +738,8 @@
             "owner": "mantoni",
             "repo": "mochify.js",
             "stars": 348
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -709,7 +754,8 @@
             "owner": "g-plane",
             "repo": "rize",
             "stars": 176
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -724,7 +770,8 @@
             "owner": "angrykoala",
             "repo": "wendigo",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -739,7 +786,8 @@
             "owner": "direct-adv-interfaces",
             "repo": "mocha-headless-chrome",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -754,7 +802,8 @@
             "owner": "Quramy",
             "repo": "angular-puppeteer-demo",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -769,7 +818,8 @@
             "owner": "dollarshaveclub",
             "repo": "e2e",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -784,7 +834,8 @@
             "owner": "jl-",
             "repo": "tupe",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         }
       ],
       "title": "Testing"
@@ -801,11 +852,12 @@
             "archived": false,
             "id": 111058386,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:44:08Z",
+            "last_commit": "2026-08-28T20:09:59Z",
             "owner": "browserless",
             "repo": "browserless",
             "stars": 13638
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -820,7 +872,8 @@
             "owner": "alvarcarto",
             "repo": "url-to-pdf-api",
             "stars": 7105
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         }
       ],
       "title": "Services"
@@ -837,11 +890,12 @@
             "archived": false,
             "id": 90796663,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T19:21:43Z",
+            "last_commit": "2026-08-28T05:38:40Z",
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95512
-          }
+            "stars": 95515
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -856,7 +910,8 @@
             "owner": "checkly",
             "repo": "puppeteer-examples",
             "stars": 3041
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -871,7 +926,8 @@
             "owner": "puppeteer",
             "repo": "examples",
             "stars": 2415
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -886,7 +942,8 @@
             "owner": "zhentaoo",
             "repo": "puppeteer-deep",
             "stars": 1209
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -901,7 +958,8 @@
             "owner": "chuongtrh",
             "repo": "html_to_pdf",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -916,7 +974,8 @@
             "owner": "aofdev",
             "repo": "instagram-get-images",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -931,7 +990,8 @@
             "owner": "sweekson",
             "repo": "puppeteer-samples",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         }
       ],
       "title": "Examples"
@@ -952,7 +1012,8 @@
             "owner": "pyppeteer",
             "repo": "pyppeteer",
             "stars": 3942
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -967,7 +1028,8 @@
             "owner": "hardkoded",
             "repo": "puppeteer-sharp",
             "stars": 3916
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -982,7 +1044,8 @@
             "owner": "deepsweet",
             "repo": "foxr",
             "stars": 798
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         },
         {
           "node_type": "item",
@@ -997,14 +1060,15 @@
             "owner": "sandro",
             "repo": "capybara-chrome",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
         }
       ],
       "title": "Related"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:19:24.746Z",
+    "last_updated": "2026-08-28T21:32:05.150Z",
     "original_repository_info": {
       "archived": false,
       "id": 132446647,
