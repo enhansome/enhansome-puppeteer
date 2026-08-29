@@ -63,10 +63,10 @@
 
 ## Rendering and web scraping
 
-* [Apify SDK](https://github.com/apifytech/apify-js) ⭐ 25,541 | 🐛 151 | 🌐 TypeScript | 📅 2026-08-28 - Scalable web crawling and scraping library. 🕷️
+* [Apify SDK](https://github.com/apifytech/apify-js) ⭐ 25,542 | 🐛 151 | 🌐 TypeScript | 📅 2026-08-28 - Scalable web crawling and scraping library. 🕷️
 * [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) ⭐ 5,636 | 🐛 33 | 🌐 JavaScript | 📅 2023-04-29 - Distributed crawler powered by Headless Chrome.
 * [BrowserGap](https://github.com/dosyago/BrowserGap) ⭐ 3,902 | 🐛 0 | 🌐 Shell | 📅 2026-08-26 - Remote browser webview powered by Headless Chrome.
-* [decktape](https://github.com/astefanutti/decktape) ⭐ 2,422 | 🐛 50 | 🌐 JavaScript | 📅 2026-07-13 - PDF exporter for HTML presentation frameworks.
+* [decktape](https://github.com/astefanutti/decktape) ⭐ 2,423 | 🐛 50 | 🌐 JavaScript | 📅 2026-07-13 - PDF exporter for HTML presentation frameworks.
 * [Wbot](https://github.com/vasani-arpit/WBOT) ⭐ 1,013 | 🐛 16 | 🌐 JavaScript | 📅 2025-09-23 - Configurable Whatsapp auto reply bot.
 * [Puppetron](https://github.com/cheeaun/puppetron) ⭐ 554 | 🐛 8 | 🌐 JavaScript | 📅 2022-06-17 - Demo site that shows how to use Puppeteer and Headless Chrome to render pages. Inspired by [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) ⚠️ Archived.
 * [whatspup](https://github.com/sarfraznawaz2005/whatspup) ⚠️ Archived - WhatsApp chat from commandline/console/cli.
@@ -83,7 +83,7 @@
 * [storybook-chrome-screenshot](https://github.com/tsuyoshiwada/storybook-chrome-screenshot) ⭐ 755 | 🐛 96 | 🌐 TypeScript | 📅 2026-08-26 - Storybook addon to save screenshots of your stories via puppeteer.
 * [mochify](https://github.com/mantoni/mochify.js) ⭐ 348 | 🐛 13 | 🌐 JavaScript | 📅 2023-12-24 - TDD with Browserify, Mocha, Headless Chrome and WebDriver.
 * [rize](https://github.com/g-plane/rize) ⚠️ Archived - High-level, fluent and chainable API provided library for puppeteer.
-* [wendigo](https://github.com/angrykoala/wendigo) ⭐ 150 | 🐛 21 | 🌐 JavaScript | 📅 2024-03-08 - Puppeteer wrapper to ease test development.
+* [wendigo](https://github.com/angrykoala/wendigo) ⭐ 151 | 🐛 21 | 🌐 JavaScript | 📅 2024-03-08 - Puppeteer wrapper to ease test development.
 * [mocha-headless-chrome](https://github.com/direct-adv-interfaces/mocha-headless-chrome) ⭐ 94 | 🐛 18 | 🌐 JavaScript | 📅 2025-07-31 - Run client-side mocha tests in the command line through Puppeteer.
 * [angular-puppeteer-demo](https://github.com/Quramy/angular-puppeteer-demo) ⭐ 61 | 🐛 2 | 🌐 TypeScript | 📅 2018-04-12 - Demos how to use Puppeteer in Karma.
 * [e2e](https://github.com/dollarshaveclub/e2e) ⭐ 33 | 🐛 6 | 🌐 JavaScript | 📅 2020-01-02 - End-to-end testing.
@@ -92,7 +92,7 @@
 
 ## Services
 
-* [browserless](https://github.com/joelgriffith/browserless) ⭐ 13,638 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-28 - Headless Chrome as a service letting you execute Puppeteer scripts remotely.
+* [browserless](https://github.com/joelgriffith/browserless) ⭐ 13,639 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-28 - Headless Chrome as a service letting you execute Puppeteer scripts remotely.
 * [url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) ⭐ 7,105 | 🐛 60 | 🌐 HTML | 📅 2024-01-18 - Web page PDF rendering done right. Self-hosted service for rendering.
 * [Puppeteer Sandbox](https://puppeteersandbox.com) - Puppeteer sandbox environment as a service. Runs Puppeteer scripts and allows saving and embedding them in external sites and markdown files.
 * [checkly](https://checklyhq.com) - Monitoring SaaS that uses Puppeteer to check availability and correctness of web pages and apps.
@@ -132,7 +132,7 @@
 
 ## Related
 
-* [pyppeteer](https://github.com/pyppeteer/pyppeteer) ⭐ 3,942 | 🐛 213 | 🌐 Python | 📅 2024-06-29 - Unofficial Python port of Puppeteer.
+* [pyppeteer](https://github.com/pyppeteer/pyppeteer) ⭐ 3,941 | 🐛 213 | 🌐 Python | 📅 2024-06-29 - Unofficial Python port of Puppeteer.
 * [puppeteer-sharp](https://github.com/kblok/puppeteer-sharp) ⭐ 3,916 | 🐛 11 | 🌐 C# | 📅 2026-08-27 - Port of Puppeteer to .NET.
 * [foxr](https://github.com/deepsweet/foxr) ⚠️ Archived - Node.js API to control Firefox. 🦊
 * [capybara-chrome](https://github.com/carezone/capybara-chrome) ⭐ 28 | 🐛 2 | 🌐 Ruby | 📅 2021-06-04 – Unofficial Ruby port of Puppeteer.
@@ -151,4 +151,4 @@ Support my OSS work by <a href="https://twitter.com/transitive_bs">following me 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
