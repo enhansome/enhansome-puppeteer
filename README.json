@@ -19,7 +19,7 @@
             "open_issues": 263,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95515,
+            "stars": 95520,
             "topics": [
               "automation",
               "chrome",
@@ -50,7 +50,7 @@
             "open_issues": 263,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95515,
+            "stars": 95520,
             "topics": [
               "automation",
               "chrome",
@@ -816,11 +816,11 @@
             "id": 66670819,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T14:14:25Z",
-            "open_issues": 151,
+            "last_commit": "2026-08-29T11:50:40Z",
+            "open_issues": 150,
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25542,
+            "stars": 25550,
             "topics": [
               "apify",
               "automation",
@@ -859,7 +859,7 @@
             "open_issues": 33,
             "owner": "yujiosaka",
             "repo": "headless-chrome-crawler",
-            "stars": 5636,
+            "stars": 5637,
             "topics": [
               "chrome",
               "chromium",
@@ -891,7 +891,7 @@
             "open_issues": 0,
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3902,
+            "stars": 3903,
             "topics": [
               "browser",
               "cdr",
@@ -1540,7 +1540,7 @@
             "open_issues": 263,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95515,
+            "stars": 95520,
             "topics": [
               "automation",
               "chrome",
@@ -1842,7 +1842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:24:40.176Z",
+    "last_updated": "2026-08-29T15:45:46.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome puppeteer resources.",
