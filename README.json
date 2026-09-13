@@ -15,11 +15,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T16:25:33Z",
-            "open_issues": 257,
+            "last_commit": "2026-09-13T03:03:07Z",
+            "open_issues": 262,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95580,
+            "stars": 95581,
             "topics": [
               "automation",
               "chrome",
@@ -46,11 +46,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T16:25:33Z",
-            "open_issues": 257,
+            "last_commit": "2026-09-13T03:03:07Z",
+            "open_issues": 262,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95580,
+            "stars": 95581,
             "topics": [
               "automation",
               "chrome",
@@ -87,7 +87,7 @@
             "open_issues": 1,
             "owner": "checkly",
             "repo": "headless-recorder",
-            "stars": 15300,
+            "stars": 15303,
             "topics": [
               "chrome",
               "chrome-extension",
@@ -114,7 +114,7 @@
             "open_issues": 275,
             "owner": "berstend",
             "repo": "puppeteer-extra",
-            "stars": 7398,
+            "stars": 7399,
             "topics": [
               "automation",
               "chrome",
@@ -205,7 +205,7 @@
             "open_issues": 53,
             "owner": "elegantapp",
             "repo": "pwa-asset-generator",
-            "stars": 3033,
+            "stars": 3032,
             "topics": [
               "android",
               "favicon",
@@ -271,11 +271,11 @@
             "id": 114102066,
             "language": "TypeScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-11T20:53:10Z",
+            "last_commit": "2026-09-12T20:54:13Z",
             "open_issues": 37,
             "owner": "ghostery",
             "repo": "adblocker",
-            "stars": 1001,
+            "stars": 1004,
             "topics": [
               "adblock",
               "adblocker",
@@ -820,7 +820,7 @@
             "open_issues": 137,
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25753,
+            "stars": 25770,
             "topics": [
               "apify",
               "automation",
@@ -859,7 +859,7 @@
             "open_issues": 33,
             "owner": "yujiosaka",
             "repo": "headless-chrome-crawler",
-            "stars": 5636,
+            "stars": 5637,
             "topics": [
               "chrome",
               "chromium",
@@ -887,7 +887,7 @@
             "id": 222240688,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T14:44:45Z",
+            "last_commit": "2026-09-12T17:21:02Z",
             "open_issues": 0,
             "owner": "BrowserBox",
             "repo": "BrowserBox",
@@ -1470,7 +1470,7 @@
             "open_issues": 11,
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13683,
+            "stars": 13689,
             "topics": [
               "browserless",
               "chrome",
@@ -1502,7 +1502,7 @@
             "open_issues": 61,
             "owner": "alvarcarto",
             "repo": "url-to-pdf-api",
-            "stars": 7101,
+            "stars": 7102,
             "topics": [
               "chrome",
               "headless",
@@ -1536,11 +1536,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T16:25:33Z",
-            "open_issues": 257,
+            "last_commit": "2026-09-13T03:03:07Z",
+            "open_issues": 262,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95580,
+            "stars": 95581,
             "topics": [
               "automation",
               "chrome",
@@ -1766,7 +1766,7 @@
             "open_issues": 11,
             "owner": "hardkoded",
             "repo": "puppeteer-sharp",
-            "stars": 3918,
+            "stars": 3919,
             "topics": [
               "automation",
               "chrome",
@@ -1842,7 +1842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T14:24:33.172Z",
+    "last_updated": "2026-09-13T15:05:25.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome puppeteer resources.",
