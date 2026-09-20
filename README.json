@@ -15,11 +15,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T16:52:42Z",
-            "open_issues": 260,
+            "last_commit": "2026-09-20T02:07:16Z",
+            "open_issues": 265,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95590,
+            "stars": 95597,
             "topics": [
               "automation",
               "chrome",
@@ -46,11 +46,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T16:52:42Z",
-            "open_issues": 260,
+            "last_commit": "2026-09-20T02:07:16Z",
+            "open_issues": 265,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95590,
+            "stars": 95597,
             "topics": [
               "automation",
               "chrome",
@@ -271,7 +271,7 @@
             "id": 114102066,
             "language": "TypeScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-18T20:55:56Z",
+            "last_commit": "2026-09-19T20:52:00Z",
             "open_issues": 38,
             "owner": "ghostery",
             "repo": "adblocker",
@@ -820,7 +820,7 @@
             "open_issues": 151,
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25837,
+            "stars": 25846,
             "topics": [
               "apify",
               "automation",
@@ -891,7 +891,7 @@
             "open_issues": 0,
             "owner": "BrowserBox",
             "repo": "BrowserBox",
-            "stars": 3915,
+            "stars": 3916,
             "topics": [
               "browser",
               "cdr",
@@ -1470,7 +1470,7 @@
             "open_issues": 12,
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13716,
+            "stars": 13722,
             "topics": [
               "browserless",
               "chrome",
@@ -1502,7 +1502,7 @@
             "open_issues": 61,
             "owner": "alvarcarto",
             "repo": "url-to-pdf-api",
-            "stars": 7105,
+            "stars": 7106,
             "topics": [
               "chrome",
               "headless",
@@ -1536,11 +1536,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T16:52:42Z",
-            "open_issues": 260,
+            "last_commit": "2026-09-20T02:07:16Z",
+            "open_issues": 265,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95590,
+            "stars": 95597,
             "topics": [
               "automation",
               "chrome",
@@ -1741,7 +1741,7 @@
             "open_issues": 212,
             "owner": "pyppeteer",
             "repo": "pyppeteer",
-            "stars": 3941,
+            "stars": 3942,
             "topics": [
               "automation",
               "chromium",
@@ -1842,7 +1842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T14:50:14.105Z",
+    "last_updated": "2026-09-20T14:54:19.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome puppeteer resources.",
