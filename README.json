@@ -19,7 +19,7 @@
             "open_issues": 272,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95643,
+            "stars": 95644,
             "topics": [
               "automation",
               "chrome",
@@ -50,7 +50,7 @@
             "open_issues": 272,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95643,
+            "stars": 95644,
             "topics": [
               "automation",
               "chrome",
@@ -271,7 +271,7 @@
             "id": 114102066,
             "language": "TypeScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-01T20:54:54Z",
+            "last_commit": "2026-10-02T20:57:57Z",
             "open_issues": 42,
             "owner": "ghostery",
             "repo": "adblocker",
@@ -820,7 +820,7 @@
             "open_issues": 134,
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25966,
+            "stars": 25974,
             "topics": [
               "apify",
               "automation",
@@ -1470,7 +1470,7 @@
             "open_issues": 14,
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13764,
+            "stars": 13765,
             "topics": [
               "browserless",
               "chrome",
@@ -1540,7 +1540,7 @@
             "open_issues": 272,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95643,
+            "stars": 95644,
             "topics": [
               "automation",
               "chrome",
@@ -1842,7 +1842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:50:33.250Z",
+    "last_updated": "2026-10-03T05:01:11.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome puppeteer resources.",
@@ -1854,7 +1854,7 @@
       "open_issues": 27,
       "owner": "transitive-bullshit",
       "repo": "awesome-puppeteer",
-      "stars": 2582,
+      "stars": 2583,
       "topics": [
         "automation",
         "awesome",
