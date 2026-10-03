@@ -15,11 +15,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:26:37Z",
+            "last_commit": "2026-10-03T06:19:59Z",
             "open_issues": 272,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95644,
+            "stars": 95647,
             "topics": [
               "automation",
               "chrome",
@@ -46,11 +46,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:26:37Z",
+            "last_commit": "2026-10-03T06:19:59Z",
             "open_issues": 272,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95644,
+            "stars": 95647,
             "topics": [
               "automation",
               "chrome",
@@ -114,7 +114,7 @@
             "open_issues": 275,
             "owner": "berstend",
             "repo": "puppeteer-extra",
-            "stars": 7403,
+            "stars": 7404,
             "topics": [
               "automation",
               "chrome",
@@ -820,7 +820,7 @@
             "open_issues": 134,
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 25974,
+            "stars": 25977,
             "topics": [
               "apify",
               "automation",
@@ -1470,7 +1470,7 @@
             "open_issues": 14,
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13765,
+            "stars": 13766,
             "topics": [
               "browserless",
               "chrome",
@@ -1536,11 +1536,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:26:37Z",
+            "last_commit": "2026-10-03T06:19:59Z",
             "open_issues": 272,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95644,
+            "stars": 95647,
             "topics": [
               "automation",
               "chrome",
@@ -1842,7 +1842,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:01:11.946Z",
+    "last_updated": "2026-10-03T15:14:57.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome puppeteer resources.",
