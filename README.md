@@ -22,8 +22,8 @@
 
 ## Official
 
-* [GitHub](https://github.com/GoogleChrome/puppeteer) ⭐ 95,797 | 🐛 215 | 🌐 TypeScript | 📅 2026-11-04 - Official GitHub repository.
-* [API](https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md) ⭐ 95,797 | 🐛 215 | 🌐 TypeScript | 📅 2026-11-04 - Official API docs.
+* [GitHub](https://github.com/GoogleChrome/puppeteer) ⭐ 95,807 | 🐛 205 | 🌐 TypeScript | 📅 2026-11-05 - Official GitHub repository.
+* [API](https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md) ⭐ 95,807 | 🐛 205 | 🌐 TypeScript | 📅 2026-11-05 - Official API docs.
 * [Website](https://pptr.dev) - Official Website.
 * [Homepage](https://developers.google.com/web/tools/puppeteer) - Official homepage.
 * [Playground](https://try-puppeteer.appspot.com) - Hosted playground where you can experiment with Puppeteer.
@@ -33,18 +33,18 @@
 ## Packages
 
 * [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) ⚠️ Archived - Chrome extension that records your browser interactions and generates a Puppeteer script. 🔥
-* [puppeteer-extra](https://github.com/berstend/puppeteer-extra) ⭐ 7,418 | 🐛 277 | 🌐 JavaScript | 📅 2024-07-18 - Wrapper to use stealth mode, custom user prefs, etc.
-* [puppeteer-cluster](https://github.com/thomasdondorf/puppeteer-cluster) ⭐ 3,516 | 🐛 128 | 🌐 TypeScript | 📅 2026-03-01 - Cluster management for puppeteer.
+* [puppeteer-extra](https://github.com/berstend/puppeteer-extra) ⭐ 7,417 | 🐛 277 | 🌐 JavaScript | 📅 2024-07-18 - Wrapper to use stealth mode, custom user prefs, etc.
+* [puppeteer-cluster](https://github.com/thomasdondorf/puppeteer-cluster) ⭐ 3,517 | 🐛 128 | 🌐 TypeScript | 📅 2026-03-01 - Cluster management for puppeteer.
 * [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) ⭐ 3,281 | 🐛 77 | 🌐 TypeScript | 📅 2024-09-03 - Chromium binary compatible with AWS Lambda (kept up to date with puppeteer).
 * [pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) ⭐ 3,043 | 🐛 53 | 🌐 TypeScript | 📅 2026-10-12 - CLI to generate multi-platform PWA icons, splash screens and meta code based on web standards.
-* [capture-website](https://github.com/sindresorhus/capture-website) ⭐ 2,011 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-31 - Capture screenshots of websites.
+* [capture-website](https://github.com/sindresorhus/capture-website) ⭐ 2,010 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-31 - Capture screenshots of websites.
 * [@cliqz/adblocker-puppeteer](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-puppeteer) ⭐ 1,015 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-03 - Efficient and flexible adblocker library to easily block ads and trackers.
 * [capture-website-cli](https://github.com/sindresorhus/capture-website-cli) ⭐ 856 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-01 - CLI to capture screenshots of websites.
 * [timecut](https://github.com/tungs/timecut) ⭐ 655 | 🐛 33 | 🌐 JavaScript | 📅 2023-07-18 - Record smooth movies of web pages with JavaScript animations.
 * [differencify](https://github.com/NimaSoroush/differencify) ⭐ 637 | 🐛 27 | 🌐 JavaScript | 📅 2020-06-02 - Library for visual regression testing.
 * [headless-devtools](https://github.com/cowchimp/headless-devtools) ⭐ 553 | 🐛 16 | 🌐 JavaScript | 📅 2023-01-05 - Puppeteer plugin to get CSS Coverage or JS Heap snapshot.
 * [docker-puppeteer](https://github.com/alekzonder/docker-puppeteer) ⭐ 479 | 🐛 23 | 🌐 JavaScript | 📅 2021-10-20 - Docker image with puppeteer installed.
-* [puppeteer-lottie](https://github.com/transitive-bullshit/puppeteer-lottie) ⭐ 387 | 🐛 22 | 🌐 JavaScript | 📅 2023-07-25 - Renders [Lottie](http://airbnb.io/lottie) animations via [Puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,797 | 🐛 215 | 🌐 TypeScript | 📅 2026-11-04 to **image**, **GIF** or **MP4**.
+* [puppeteer-lottie](https://github.com/transitive-bullshit/puppeteer-lottie) ⭐ 387 | 🐛 22 | 🌐 JavaScript | 📅 2023-07-25 - Renders [Lottie](http://airbnb.io/lottie) animations via [Puppeteer](https://github.com/GoogleChrome/puppeteer) ⭐ 95,807 | 🐛 205 | 🌐 TypeScript | 📅 2026-11-05 to **image**, **GIF** or **MP4**.
 * [minimalcss](https://github.com/peterbe/minimalcss) ⭐ 354 | 🐛 43 | 🌐 JavaScript | 📅 2023-01-03 - Extracts the minimal / critical CSS used in a set of URLs.
 * [timesnap](https://github.com/tungs/timesnap) ⭐ 240 | 🐛 29 | 🌐 JavaScript | 📅 2024-01-17 - Take screenshots of web pages at smooth intervals.
 * [puppeteer-social-image](https://github.com/chrisvxd/puppeteer-social-image) ⭐ 219 | 🐛 18 | 🌐 JavaScript | 📅 2023-01-03 - Render social share images using HTML + CSS.
@@ -63,8 +63,8 @@
 
 ## Rendering and web scraping
 
-* [Apify SDK](https://github.com/apifytech/apify-js) ⭐ 26,333 | 🐛 145 | 🌐 TypeScript | 📅 2026-11-04 - Scalable web crawling and scraping library. 🕷️
-* [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) ⭐ 5,632 | 🐛 33 | 🌐 JavaScript | 📅 2023-04-29 - Distributed crawler powered by Headless Chrome.
+* [Apify SDK](https://github.com/apifytech/apify-js) ⭐ 26,350 | 🐛 130 | 🌐 TypeScript | 📅 2026-11-05 - Scalable web crawling and scraping library. 🕷️
+* [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) ⭐ 5,631 | 🐛 33 | 🌐 JavaScript | 📅 2023-04-29 - Distributed crawler powered by Headless Chrome.
 * [BrowserGap](https://github.com/dosyago/BrowserGap) ⭐ 3,931 | 🐛 0 | 🌐 Shell | 📅 2026-11-04 - Remote browser webview powered by Headless Chrome.
 * [decktape](https://github.com/astefanutti/decktape) ⭐ 2,437 | 🐛 49 | 🌐 JavaScript | 📅 2026-10-26 - PDF exporter for HTML presentation frameworks.
 * [Wbot](https://github.com/vasani-arpit/WBOT) ⭐ 1,009 | 🐛 16 | 🌐 JavaScript | 📅 2025-09-23 - Configurable Whatsapp auto reply bot.
@@ -78,8 +78,8 @@
 
 ## Testing
 
-* [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) ⭐ 3,544 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-26 - Run your tests using Jest & Puppeteer.
-* [expect-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/expect-puppeteer) ⭐ 3,544 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-26 - Assertion library for Puppeteer.
+* [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) ⭐ 3,543 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-26 - Run your tests using Jest & Puppeteer.
+* [expect-puppeteer](https://github.com/smooth-code/jest-puppeteer/tree/master/packages/expect-puppeteer) ⭐ 3,543 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-26 - Assertion library for Puppeteer.
 * [storybook-chrome-screenshot](https://github.com/tsuyoshiwada/storybook-chrome-screenshot) ⭐ 756 | 🐛 97 | 🌐 TypeScript | 📅 2026-11-02 - Storybook addon to save screenshots of your stories via puppeteer.
 * [mochify](https://github.com/mantoni/mochify.js) ⭐ 348 | 🐛 13 | 🌐 JavaScript | 📅 2023-12-24 - TDD with Browserify, Mocha, Headless Chrome and WebDriver.
 * [rize](https://github.com/g-plane/rize) ⚠️ Archived - High-level, fluent and chainable API provided library for puppeteer.
@@ -92,8 +92,8 @@
 
 ## Services
 
-* [browserless](https://github.com/joelgriffith/browserless) ⭐ 13,900 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-04 - Headless Chrome as a service letting you execute Puppeteer scripts remotely.
-* [url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) ⭐ 7,103 | 🐛 61 | 🌐 HTML | 📅 2024-01-18 - Web page PDF rendering done right. Self-hosted service for rendering.
+* [browserless](https://github.com/joelgriffith/browserless) ⭐ 13,908 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-05 - Headless Chrome as a service letting you execute Puppeteer scripts remotely.
+* [url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) ⭐ 7,102 | 🐛 61 | 🌐 HTML | 📅 2024-01-18 - Web page PDF rendering done right. Self-hosted service for rendering.
 * [Puppeteer Sandbox](https://puppeteersandbox.com) - Puppeteer sandbox environment as a service. Runs Puppeteer scripts and allows saving and embedding them in external sites and markdown files.
 * [checkly](https://checklyhq.com) - Monitoring SaaS that uses Puppeteer to check availability and correctness of web pages and apps.
 * [FusionExport](https://www.fusioncharts.com/fusionexport) - Export dashboards or charts to PDF or images. Looks mature.
@@ -107,10 +107,10 @@
 
 ## Examples
 
-* [Official examples](https://github.com/puppeteer/puppeteer/tree/main/examples) ⭐ 95,797 | 🐛 215 | 🌐 TypeScript | 📅 2026-11-04 - Quality examples as part of the official puppeteer repo.
+* [Official examples](https://github.com/puppeteer/puppeteer/tree/main/examples) ⭐ 95,807 | 🐛 205 | 🌐 TypeScript | 📅 2026-11-05 - Quality examples as part of the official puppeteer repo.
 * [puppeteer-examples](https://github.com/checkly/puppeteer-examples) ⚠️ Archived - Quality examples for real life use cases such as scraping web pages and common login scenarios.
 * [Official use case-driven examples](https://github.com/GoogleChromeLabs/puppeteer-examples) ⭐ 2,417 | 🐛 39 | 🌐 JavaScript | 📅 2026-06-21 - More complex, high quality, use case-driven examples.
-* [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) ⭐ 1,208 | 🐛 9 | 🌐 JavaScript | 📅 2020-11-13 - Demos on crawling, UI automation, trace API and so on.
+* [puppeteer-deep](https://github.com/zhentaoo/puppeteer-deep) ⭐ 1,207 | 🐛 9 | 🌐 JavaScript | 📅 2020-11-13 - Demos on crawling, UI automation, trace API and so on.
 * [html\_to\_pdf](https://github.com/chuongtrh/html_to_pdf) ⭐ 119 | 🐛 3 | 🌐 JavaScript | 📅 2026-05-29 - Generate a simple invoice PDF from HTML.
 * [instagram-get-images](https://github.com/aofdev/instagram-get-images) ⭐ 79 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-01 - Instagram image scraper.
 * [puppeteer-samples](https://github.com/sweekson/puppeteer-samples) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2017-09-18 - Misc examples.
@@ -132,8 +132,8 @@
 
 ## Related
 
-* [pyppeteer](https://github.com/pyppeteer/pyppeteer) ⭐ 3,939 | 🐛 211 | 🌐 Python | 📅 2024-06-29 - Unofficial Python port of Puppeteer.
-* [puppeteer-sharp](https://github.com/kblok/puppeteer-sharp) ⭐ 3,934 | 🐛 12 | 🌐 C# | 📅 2026-11-04 - Port of Puppeteer to .NET.
+* [pyppeteer](https://github.com/pyppeteer/pyppeteer) ⭐ 3,938 | 🐛 211 | 🌐 Python | 📅 2024-06-29 - Unofficial Python port of Puppeteer.
+* [puppeteer-sharp](https://github.com/kblok/puppeteer-sharp) ⭐ 3,934 | 🐛 10 | 🌐 C# | 📅 2026-11-05 - Port of Puppeteer to .NET.
 * [foxr](https://github.com/deepsweet/foxr) ⚠️ Archived - Node.js API to control Firefox. 🦊
 * [capybara-chrome](https://github.com/carezone/capybara-chrome) ⭐ 28 | 🐛 2 | 🌐 Ruby | 📅 2021-06-04 – Unofficial Ruby port of Puppeteer.
 
@@ -151,4 +151,4 @@ Support my OSS work by <a href="https://twitter.com/transitive_bs">following me 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
