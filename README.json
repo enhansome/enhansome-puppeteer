@@ -15,11 +15,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T17:04:32Z",
-            "open_issues": 212,
+            "last_commit": "2026-11-17T19:59:16Z",
+            "open_issues": 198,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95847,
+            "stars": 95853,
             "topics": [
               "automation",
               "chrome",
@@ -46,11 +46,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T17:04:32Z",
-            "open_issues": 212,
+            "last_commit": "2026-11-17T19:59:16Z",
+            "open_issues": 198,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95847,
+            "stars": 95853,
             "topics": [
               "automation",
               "chrome",
@@ -816,11 +816,11 @@
             "id": 66670819,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T16:14:06Z",
-            "open_issues": 139,
+            "last_commit": "2026-11-17T11:12:06Z",
+            "open_issues": 146,
             "owner": "apify",
             "repo": "crawlee",
-            "stars": 26467,
+            "stars": 26483,
             "topics": [
               "apify",
               "automation",
@@ -859,7 +859,7 @@
             "open_issues": 33,
             "owner": "yujiosaka",
             "repo": "headless-chrome-crawler",
-            "stars": 5631,
+            "stars": 5632,
             "topics": [
               "chrome",
               "chromium",
@@ -1241,7 +1241,7 @@
             "id": 101257364,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T10:53:32Z",
+            "last_commit": "2026-11-17T00:51:22Z",
             "open_issues": 98,
             "owner": "reg-viz",
             "repo": "storycap",
@@ -1463,11 +1463,11 @@
             "id": 111058386,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T19:58:34Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-17T18:21:15Z",
+            "open_issues": 14,
             "owner": "browserless",
             "repo": "browserless",
-            "stars": 13941,
+            "stars": 13940,
             "topics": [
               "browserless",
               "chrome",
@@ -1499,7 +1499,7 @@
             "open_issues": 61,
             "owner": "alvarcarto",
             "repo": "url-to-pdf-api",
-            "stars": 7101,
+            "stars": 7102,
             "topics": [
               "chrome",
               "headless",
@@ -1533,11 +1533,11 @@
             "id": 90796663,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T17:04:32Z",
-            "open_issues": 212,
+            "last_commit": "2026-11-17T19:59:16Z",
+            "open_issues": 198,
             "owner": "puppeteer",
             "repo": "puppeteer",
-            "stars": 95847,
+            "stars": 95853,
             "topics": [
               "automation",
               "chrome",
@@ -1724,31 +1724,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "pyppeteer",
-          "description": "Unofficial Python port of Puppeteer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Headless chrome/chromium automation library (unofficial port of puppeteer)",
-            "homepage": null,
-            "id": 237223760,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2024-06-29T14:49:45Z",
-            "open_issues": 211,
-            "owner": "pyppeteer",
-            "repo": "pyppeteer",
-            "stars": 3936,
-            "topics": [
-              "automation",
-              "chromium",
-              "puppeteer"
-            ]
-          },
-          "first_seen": "2026-08-28T21:32:05.150Z"
-        },
-        {
-          "node_type": "item",
           "title": "puppeteer-sharp",
           "description": "Port of Puppeteer to .NET.",
           "children": [],
@@ -1759,8 +1734,8 @@
             "id": 105399035,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-16T17:07:05Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-17T19:14:54Z",
+            "open_issues": 4,
             "owner": "hardkoded",
             "repo": "puppeteer-sharp",
             "stars": 3935,
@@ -1775,6 +1750,31 @@
               "e2e-testing",
               "puppeteer",
               "webautomation"
+            ]
+          },
+          "first_seen": "2026-08-28T21:32:05.150Z"
+        },
+        {
+          "node_type": "item",
+          "title": "pyppeteer",
+          "description": "Unofficial Python port of Puppeteer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Headless chrome/chromium automation library (unofficial port of puppeteer)",
+            "homepage": null,
+            "id": 237223760,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2024-06-29T14:49:45Z",
+            "open_issues": 211,
+            "owner": "pyppeteer",
+            "repo": "pyppeteer",
+            "stars": 3934,
+            "topics": [
+              "automation",
+              "chromium",
+              "puppeteer"
             ]
           },
           "first_seen": "2026-08-28T21:32:05.150Z"
@@ -1839,7 +1839,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T21:15:58.268Z",
+    "last_updated": "2026-11-17T20:03:36.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome puppeteer resources.",
